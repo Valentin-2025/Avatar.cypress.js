@@ -38,4 +38,4 @@ npx cypress run --spec cypress/e2e/lesson_locators.cy.js --browser chrome
 
 ## Автор
 
-Валентин Ретюнский (e-mail: retvaliv72@mail.ru)
+Валентин Ретюнский (e-mail: retvaliv72@mail.ru), ([@ValentinRet](https://t.me/ValentinRet))
