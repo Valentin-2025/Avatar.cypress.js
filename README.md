@@ -21,7 +21,7 @@ Cквозной e2e автотест для покемонов: на покуп�
 npx cypress run --spec cypress/e2e/lesson_locators.cy.js --browser chrome
 ```
 Ожидаемый результат: получим отчет о прохождении тестов.
-![image](static/Cypress_cli.png)
+![image](https://raw.githubusercontent.com/Valentin-2025/Avatar.cypress.js/refs/heads/main/Cypress_cli.png)
 
 ## Локальный запуск через Cypress UI
 1. Скачать проект и открыть в терминале.
@@ -33,7 +33,7 @@ npx cypress run --spec cypress/e2e/lesson_locators.cy.js --browser chrome
 7. Выбрать спеку login.cy.js
 
 Ожидаемый результат: получим отчет о прохождении тестов.
-![alt text](static/Cypress_Ul.png)
+![alt text](https://raw.githubusercontent.com/Valentin-2025/Avatar.cypress.js/refs/heads/main/Cypress_Ul.png)
 
 
 ## Автор
